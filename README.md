@@ -12,13 +12,13 @@
 # 💫 About Me:
 ### 👨‍💻 I’m currently working on
 Scalable and production-ready Flutter applications with a strong focus on performance optimization, background execution, monetization, and system-level Android features. My current work includes Play Store–ready apps, secure in-app purchases & subscriptions, Stripe payment integration, and cloud-based storage solutions.
-#### 🤝 I’m looking to collaborate on
+### 🤝 I’m looking to collaborate on
 High-impact Flutter and Firebase projects, open-source mobile libraries, startup MVPs, and applications involving real-time data, notifications, payments, and AI-powered features.
-## 📚 I’m currently learning
+### 📚 I’m currently learning
 Advanced Flutter architecture, Play Store subscription handling, background execution on Android, and expanding into React Native for cross-platform development.
-## 💬 Ask me about
+### 💬 Ask me about
 Flutter & Dart, Firebase (Auth, Firestore, Storage), GetX & Provider, MVVM architecture, API integration, Flutter notifications, Google Maps integration, Stripe payments, In-App Purchases, AAB creation, and Play Store deployment.
-## ⚡ Fun fact
+### ⚡ Fun fact
 I enjoy engineering complex mobile workflows into clean, maintainable Flutter code—and I’ve delivered solutions ranging from call-screening and background services to AI-driven healthcare and cloud-based mobile apps.
 
 
