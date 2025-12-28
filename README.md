@@ -10,9 +10,9 @@
 <p> <strong>Flutter Developer | Software Engineer | Mobile App Developer</strong><br> 🚀 Production-ready apps | 📱 crossPlatform-focused solutions | 🎓 CS Graduate (PMAS Arid University) </p></div>
 
 # 💫 About Me:
-## 👨‍💻 I’m currently working on
+### 👨‍💻 I’m currently working on
 Scalable and production-ready Flutter applications with a strong focus on performance optimization, background execution, monetization, and system-level Android features. My current work includes Play Store–ready apps, secure in-app purchases & subscriptions, Stripe payment integration, and cloud-based storage solutions.
-## 🤝 I’m looking to collaborate on
+#### 🤝 I’m looking to collaborate on
 High-impact Flutter and Firebase projects, open-source mobile libraries, startup MVPs, and applications involving real-time data, notifications, payments, and AI-powered features.
 ## 📚 I’m currently learning
 Advanced Flutter architecture, Play Store subscription handling, background execution on Android, and expanding into React Native for cross-platform development.
