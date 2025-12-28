@@ -1,6 +1,7 @@
 
 
 # Hey there! I'm Ahzam Shahnil 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-stack+Flutter+Developer;AI+Builder+%26+Creative+Coder;15%2B+Freelance+Projects+Completed;Always+Pushing+Tech+Boundaries!)
 <div align="center">
 
 <p> <strong>Flutter Developer | Software Engineer | Mobile App Developer</strong><br> 🚀 Production-ready apps | 📱 crossPlatform-focused solutions | 🎓 CS Graduate (PMAS Arid University) </p></div>
