@@ -1,3 +1,5 @@
+
+<!--
 # 💫 About Me:
 👨‍💻 I’m currently working on<br>Scalable and production-ready Flutter applications with a strong focus on performance optimization, background execution, monetization, and system-level Android features. My current work includes Play Store–ready apps, secure in-app purchases & subscriptions, Stripe payment integration, and cloud-based storage solutions.<br>🤝 I’m looking to collaborate on<br>High-impact Flutter and Firebase projects, open-source mobile libraries, startup MVPs, and applications involving real-time data, notifications, payments, and AI-powered features.<br>📚 I’m currently learning<br>Advanced Flutter architecture, Play Store subscription handling, background execution on Android, and expanding into React Native for cross-platform development.<br>💬 Ask me about<br>Flutter & Dart, Firebase (Auth, Firestore, Storage), GetX & Provider, MVVM architecture, API integration, Flutter notifications, Google Maps integration, Stripe payments, In-App Purchases, AAB creation, and Play Store deployment.<br>⚡ Fun fact<br>I enjoy engineering complex mobile workflows into clean, maintainable Flutter code—and I’ve delivered solutions ranging from call-screening and background services to AI-driven healthcare and cloud-based mobile apps.
 
@@ -16,3 +18,95 @@
 [![](https://visitcount.itsvg.in/api?id=DevUsama007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Hey there! I'm Usama Basharat 👋
+<div align="center">
+
+<p> <strong>Flutter Developer | Software Engineer | Mobile App Developer</strong><br> 🚀 Production-ready apps | 📱 Android-focused solutions | 🎓 CS Graduate (PMAS Arid University) </p>
+
+
+
+
+
+
+</div>
+👨‍💻 About Me
+<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380">
+
+🎓 Bachelor’s in Computer Science
+💼 Flutter Developer | Software Engineer
+📱 Android App Specialist
+
+🔍 Current Focus
+
+⚡ Building high-performance Flutter applications
+
+🔐 Implementing In-App Purchases & Subscriptions
+
+☁️ Firebase (Auth, Firestore, Storage, Cloud Functions)
+
+🔔 Background services & notifications
+
+💳 Stripe payment integration
+
+📦 Play Store deployment & AAB creation
+
+🤝 Open to Collaborate On
+
+Flutter & Firebase projects
+
+Monetized apps (Subscriptions, Payments)
+
+Open-source Flutter utilities
+
+Startup MVPs and scalable mobile solutions
+
+💬 Ask Me About
+
+Flutter • Dart • Firebase • GetX • Provider • MVVM Architecture
+API Integration • Notifications • Google Maps
+In-App Purchases • Stripe • Play Store Deployment
+
+⚡ Fun Fact
+
+I enjoy converting complex business requirements into clean, scalable Flutter architectures—and I’ve built apps ranging from call-screening systems to AI-powered healthcare platforms.
+
+🛠️ Tech Stack & Tools
+<div align="center">
+Languages & Frameworks
+
+
+
+
+Backend & Cloud
+
+
+
+
+Payments & Monetization
+
+
+
+
+Architecture & State Management
+
+
+
+
+
+
+</div>
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevUsama007&layout=compact&langs_count=8&theme=tokyonight"/> </div>
+🌟 GitHub Activity
+<div align="center">
+
+</div>
+🤝 Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/usama-basharat-41514630b"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.youtube.com/@flutterWidgetWithUsama"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </div>
+<div align="center">
+
+Flutter Developer from Pakistan 🇵🇰
+<sub>⭐ Star repositories you find useful</sub>
+
+</div>
