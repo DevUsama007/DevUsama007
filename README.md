@@ -1,7 +1,7 @@
 
 
 Hey there! I'm Usama Basharat 👋
-<div align="start">
+<div align="center">
 
 <p> <strong>Flutter Developer | Software Engineer | Mobile App Developer</strong><br> 🚀 Production-ready apps | 📱 Android-focused solutions | 🎓 CS Graduate (PMAS Arid University) </p></div>
 
